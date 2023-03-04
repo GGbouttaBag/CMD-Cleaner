@@ -1,8 +1,8 @@
 @echo off
-title CMD-Cleaner
+title PC Optimizer By : GlockBaby
 echo.
 echo **********************
-echo   Simple CMD-Cleaner
+echo  Simple Pc Optimizer & Cleaner By : Glockbaby https://discord.gg/QtRRhpZg
 echo **********************
 echo.
 if "%1"=="main" goto main
@@ -96,10 +96,10 @@ goto ende
 :ende
 echo.
 echo.
-echo         ***** Information *******
-echo If a few messages appear, try to run as admin.
-echo Error-Messages are not critical, so you can
-echo ignore them without any worries...
+echo         ***** Information *****
+echo     If you see a few errors, dont worry,
+echo    run program as administrator to try to 
+echo delete the ones that were missed... Thank You!
 echo **********************************************
 echo.
 :eof
